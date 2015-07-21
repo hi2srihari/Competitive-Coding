@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1405651408 source:c:\users\sri hari\desktop\joseph ducreux\programmingchallenges\australian election.cpp
+	<iostream>
+
+1405661944 source:c:\users\sri hari\desktop\joseph ducreux\programmingchallenges\checkmate.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1405661967 source:c:\users\sri hari\desktop\joseph ducreux\programmingchallenges\graphicaleditor.cpp
+	<iostream>
+	<stdlib.h>
+
+1405661995 source:c:\users\sri hari\desktop\joseph ducreux\programmingchallenges\interpreter.cpp
+	<iostream>
+	<stdlib.h>
+
+1405662031 source:c:\users\sri hari\desktop\joseph ducreux\programmingchallenges\jolly jumper.cpp
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,14 @@
+freopen("file.txt","r",stdin);
+//used to receive inputs from a file instead of std input...for debugging
+SIMILARLY
+freopen("file.txt","w",stdout);
+//to write output to a file in case of intricate string formatting where the standard output is not legible enough...
+NOTE:both these require inclusion of <stdio.h>
+and use this method ONLY for debugging
+
+header files that contain certain "special fns" like strrev from string.h and conio.h are not part of ANSI standard C,so write these fns manually.
+
+use// @JUDGE_ID <user ID> <problem no> <Language Used> <remarks>
+debugging can be as simple as using a cout statement
+I'm so close to building my own(rather humble) version of deep blue!
+the Australian Voting Problem sucks...I dont't get it...I'll try googling it

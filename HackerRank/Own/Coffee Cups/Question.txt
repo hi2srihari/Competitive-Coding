@@ -1,0 +1,23 @@
+Help Kathy figure out how much coffee to drink
+
+
+
+On a drowsy Monday morning,Kathy is slightly relieved during her coffee break,and wants to gulp down as many cups of her favourite cuppa as possible.Kathy can only
+ get coffee from the coffee machine at the food-court,and it takes T minutes for her to walk to the food-court from her cubicle(and another T minutes to get back).
+ She is particular about drinking her coffee only in the comfort of her cubicle and does not make any stops on the way to or from the coffee machine.
+ Every cup of coffee that she drinks gives her more energy and cuts the time she takes to get to the coffee machine by B minutes.
+ However the coffee buzz factor has a saturation point,the minimum time required for a one way trip must be at least 1 minute.
+ If her coffee break lasts for N minutes and if Kathy won't attempt a trip that will exceed her stipulated break time,
+ find the max no of cups she could drink within the time period.  
+
+
+
+Constraints:
+
+10<=T<=100
+
+1<=B<=9
+
+10<=N<=10000
+
+B<T<N
